@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#header {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+}
+
+.content-section {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+a:hover {
+    color: #f00;
+}
+
+a, a:visited {
+    color: #00f;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
